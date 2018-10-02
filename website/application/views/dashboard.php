@@ -226,7 +226,7 @@ a:hover {
         <a href="" data-title="Team">PRODUCT</a>
       </li><br>
       <li>
-        <a href="" data-title="Diary">CONTACT</a>
+        <a href="web/cont" data-title="Diary">CONTACT</a>
       </li>
     </ul>
   </nav>
