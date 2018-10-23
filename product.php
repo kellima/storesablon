@@ -240,15 +240,120 @@ a:hover {
   <article class="larg">
     <div>
 
-    </div>
-    <div>
-      <h3>Project 2 <span class="entypo-down-open"></span></h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus iste quia incidunt ad provident ullam quo assumenda expedita quae sapiente ipsa qui esse similique! Modi obcaecati natus sapiente quaerat omnis.</p>
-    </div>
-    <div>
-      <h3>Project 3 <span class="entypo-down-open"></span></h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus iste quia incidunt ad provident ullam quo assumenda expedita quae sapiente ipsa qui esse similique! Modi obcaecati natus sapiente quaerat omnis.</p>
-    </div>
+   <!-- Product Catagories Area Start -->
+        <div class="products-catagories-area clearfix">
+            <div class="amado-pro-catagory clearfix">
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/1.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 1</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/2.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 2</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/3.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 3</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/4.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 4</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/5.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 5</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/6.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 6</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/7.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 7</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/8.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 8</p>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Single Catagory -->
+                <div class="single-products-catagory clearfix">
+                    <a href="shop.html">
+                        <img src="<?php echo base_url().'assets/images/und.jpg'?>" alt="">
+                        <!-- Hover Content -->
+                        <div class="hover-content">
+                            <div class="line"></div>
+                            <p>PRODUK 9</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- Product Catagories Area End -->
   </article>
 </main>
 
